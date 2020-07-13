@@ -4,8 +4,8 @@
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
-- [ ] CVS by tutorials
+- [x] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [x] Internet Surfing by tutorials
-- [ ] 50 Shades of  light
+- [ ] 50 Shades of green:
